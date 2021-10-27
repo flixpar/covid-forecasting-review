@@ -25,6 +25,7 @@ def main():
         metadata.append(m)
 
     metadata_df = pd.DataFrame(metadata)
+    metadata_df.sort_values(by=["title"], inplace=True)
     metadata_df.to_csv("../data/metadata.csv", index=False)
 
     with open("../rawdata/metadata_raw.json", "w") as f:

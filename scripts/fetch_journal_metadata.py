@@ -28,6 +28,7 @@ def main():
             journals_found.append(i)
 
     metadata_df = pd.DataFrame(metadata)
+    metadata_df.sort_values(by="title", inplace=True)
     metadata_df.to_csv("../data/journal_metadata.csv", index=False)
 
     with open("../rawdata/journal_metadata_raw.json", "w") as f:

@@ -32,4 +32,6 @@ doi_lookup = {row[1].title: row[1].doi for row in doi_lookup_data.iterrows()}
 
 data.insert(1, "doi", data.title.map(lambda x: doi_lookup[x]))
 
+data.sort_values(by=["title"], inplace=True)
+
 data.to_csv("../data/finaldata.csv", index=False)

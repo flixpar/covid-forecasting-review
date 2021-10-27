@@ -1,0 +1,139 @@
+title,doi
+A compartmental epidemic model incorporating probable cases to model COVID-19 outbreak in regions with limited testing capacity,10.1016/j.isatra.2021.01.029
+A data-driven model to describe and forecast the dynamics of COVID-19 transmission,10.1371/journal.pone.0236386
+A decision analytic approach for social distancing policies during early stages of COVID-19 pandemic,10.1016/j.dss.2021.113630
+A fractional-order SEIHDR model for COVID-19 with inter-city networked coupling effects,10.1007/s11071-020-05848-4
+A Mass-Conservation Model for Stability Analysis and Finite-Time Estimation of Spread of COVID-19,10.1109/TCSS.2021.3050476
+A model and predictions for COVID-19 considering population behavior and vaccination,10.1038/s41598-021-91514-7
+A modified age-structured SIR model for COVID-19 type viruses,10.1038/s41598-021-94609-3
+A multi-method approach to modeling COVID-19 disease dynamics in the United States,10.1038/s41598-021-92000-w
+A novel compartmental model to capture the nonlinear trend of COVID-19,10.1016/j.compbiomed.2021.104421
+A Novel Intelligent Computational Approach to Model Epidemiological Trends and Assess the Impact of Non-Pharmacological Interventions for COVID-19,10.1109/JBHI.2020.3027987
+A predictive model and country risk assessment for COVID-19: An application of the Limited Failure Population concept,10.1016/j.chaos.2020.110240
+A predictive model for Covid-19 spread applied to eight US states,arxiv:2006.05955
+A random forest model for forecasting regional COVID-19 cases utilizing reproduction number estimates and demographic data,10.1101/2021.05.23.21257689
+"A seq2seq model to forecast the COVID-19 cases, deaths and reproductive R numbers in US counties",10.1101/2021.04.14.21255507
+A SIR model assumption for the spread of COVID-19 in different communities,10.1016/j.chaos.2020.110057
+A SIR-type model describing the successive waves of COVID-19,10.1016/j.chaos.2021.110682
+A Spatiotemporal Tool to Project Hospital Critical Care Capacity and Mortality From COVID-19 in US Counties,10.2105/AJPH.2021.306220
+Accurate long-range forecasting of COVID-19 mortality in the USA,10.1038/s41598-021-91365-2
+Age-group-targeted testing for COVID-19 as a new prevention strategy,10.1007/s11071-020-05879-x
+"An Agent-Based Modeling of COVID-19: Validation, Analysis, and Recommendations",10.1007/s12559-020-09801-w
+An epidemiological modelling approach for COVID-19 via data assimilation,10.1007/s10654-020-00676-7
+Analysis of transmission dynamics of COVID-19 via closed-form solutions of a susceptible-infectious-quarantined-diseased model with a quarantine-adjusted incidence function,10.1002/mma.7481
+Applicability of time fractional derivative models for simulating the dynamics and mitigation scenarios of COVID-19,10.1016/j.chaos.2020.109959
+Assessing effects of reopening policies on COVID-19 pandemic in Texas with a data-driven transmission model,10.1016/j.idm.2021.02.001
+"Association of Simulated COVID-19 Vaccination and Nonpharmaceutical Interventions With Infections, Hospitalizations, and Mortality",10.1001/jamanetworkopen.2021.10782
+Better strategies for containing COVID-19 pandemic: A study of 25 countries via a vSIADR model,10.1098/rspa.2020.0440
+Capping Mobility to Control COVID-19: A Collision-based Infectious Disease Transmission Model,10.1101/2020.07.25.20162016
+Comparative study of machine learning methods for COVID-19 transmission forecasting,10.1016/j.jbi.2021.103791
+Compliance and containment in social distancing: mathematical modeling of COVID-19 across townships,10.1080/13658816.2021.1873999
+Count regression models for COVID-19,10.1016/j.physa.2020.125460
+COUnty aggRegation mixup AuGmEntation (COURAGE) COVID-19 prediction,10.1038/s41598-021-93545-6
+Covasim: An agent-based model of COVID-19 dynamics and interventions,10.1371/journal.pcbi.1009149
+COVID-19 dynamics across the US: A deep learning study of human mobility and social behavior,10.1016/j.cma.2021.113891
+COVID-19 healthcare demand projections: Arizona,10.1371/journal.pone.0242588
+COVID-19 infection data encode a dynamic reproduction number in response to policy decisions with secondary wave implications,10.1038/s41598-021-90227-1
+COVID-19 pandemic and Farr's law: A global comparison and prediction of outbreak acceleration and deceleration rates,10.1371/journal.pone.0239175
+COVID-19: Short term prediction model using daily incidence data,10.1371/journal.pone.0250110
+Curbing the COVID-19 pandemic with facility-based isolation of mild cases: a mathematical modeling study,10.1093/jtm/taaa226
+Data analysis of Covid-19 pandemic and short-term cumulative case forecasting using machine learning time series methods,10.1016/j.chaos.2020.110512
+Data driven estimation of novel COVID-19 transmission risks through hybrid soft-computing techniques,10.1016/j.chaos.2020.110152
+Data-driven optimized control of the COVID-19 epidemics,10.1038/s41598-021-85496-9
+Deep learning methods for forecasting COVID-19 time-Series data: A Comparative study,10.1016/j.chaos.2020.110121
+DeepCOVID: An Operational Deep Learning-driven Framework for Explainable Real-time COVID-19 Forecasting,10.1101/2020.09.28.20203109
+DeepGLEAM: A hybrid mechanistic and deep learning model for COVID-19 forecasting,arxiv:2102.06684
+"Development of an interactive, agent-based local stochastic model of COVID-19 transmission and evaluation of mitigation strategies illustrated for the state of Massachusetts, USA",10.1371/journal.pone.0247182
+Differential effects of intervention timing on COVID-19 spread in the United States,10.1101/2020.05.15.20103655
+Dynamics identification and forecasting of COVID-19 by switching Kalman filters,10.1007/s00466-020-01911-4
+Effect of mitigation measures on the spreading of COVID-19 in hard-hit states in the U.S,10.1371/journal.pone.0240877
+Effect of mitigation measures on the spreading of COVID-19 in hard-hit states in the U.S.,10.1371/journal.pone.0240877
+"Effects of COVID-19 vaccination timing and risk prioritization on mortality rates, United States",10.3201/eid2707.210118
+Effects of short-term travel on COVID-19 spread: A novel SEIR model and case study in Minnesota,10.1371/journal.pone.0245919
+EpiCovDA: a mechanistic COVID-19 forecasting model with data assimilation,arxiv:2105.05471
+Epidemic Model Guided Machine Learning for COVID-19 Forecasts in the United States,10.1101/2020.05.24.20111989
+Estimation of COVID-19 spread curves integrating global data and borrowing information,10.1371/journal.pone.0236860
+Estimation of undetected symptomatic and asymptomatic cases of COVID-19 infection and prediction of its spread in the USA,10.1002/jmv.26897
+Evaluating Scenarios for School Reopening under COVID19,10.1101/2020.07.22.20160036
+Evaluating short-term forecasting of COVID-19 cases among different epidemiological models under a Bayesian framework,10.1093/gigascience/giab009
+Evaluating the impact of mobility on COVID-19 pandemic with machine learning hybrid predictions,10.1016/j.scitotenv.2020.144151
+Evaluation of COVID-19 vaccination strategies with a delayed second dose,10.1371/journal.pbio.3001211
+EVDHM-ARIMA-Based Time Series Forecasting Model and Its Application for COVID-19 Cases,10.1109/TIM.2020.3041833
+Evolutionary modelling of the COVID-19 pandemic in fifteen most affected countries,10.1016/j.chaos.2020.110118
+Exploring the impacts of travel-implied policy factors on COVID-19 spread within communities based on multi-source data interpretations,10.1016/j.healthplace.2021.102538
+Fast and Accurate Forecasting of COVID-19 Deaths Using the SIkJ Model,arxiv:2007.05180
+Forecast analysis of the epidemics trend of COVID-19 in the USA by a generalized fractional-order SEIR model,10.1007/s11071-020-05946-3
+Forecast and evaluation of COVID-19 spreading in USA with reduced-space Gaussian process regression,10.1016/j.chaos.2020.109924
+"Forecasting and planning during a pandemic: COVID-19 growth rates, supply chain disruptions, and governmental decisions",10.1016/j.ejor.2020.08.001
+Forecasting Brazilian and American COVID-19 cases based on artificial intelligence coupled with climatic exogenous variables,10.1016/j.chaos.2020.110027
+"Forecasting COVID-19 confirmed cases, deaths and recoveries: Revisiting established time series modeling through novel applications for the USA and Italy",10.1371/journal.pone.0244173
+"Forecasting COVID-19 impact on hospital bed-days, ICU-days, ventilator-days and deaths by US state in the next 4 months",10.1101/2020.03.27.20043752
+Forecasting COVID-19 pandemic using optimal singular spectrum analysis,10.1016/j.chaos.2020.110547
+"Forecasting incidences of COVID-19 using Box-Jenkins method for the period July 12-Septembert 11, 2020: A study on highly affected countries",10.1016/j.chaos.2020.110248
+Forecasting spread of COVID-19 using google trends: A hybrid GWO-deep learning approach,10.1016/j.chaos.2020.110336
+"Forecasting the cumulative number of confirmed cases of COVID-19 in Italy, UK and USA using fractional nonlinear grey Bernoulli model",10.1016/j.chaos.2020.109948
+Forecasting the patterns of COVID-19 and causal impacts of lockdown in top five affected countries using Bayesian Structural Time Series Models,10.1016/j.chaos.2020.110196
+Forecasting the spread of COVID-19 under different reopening strategies,10.1038/s41598-020-77292-8
+Generalized SIR (GSIR) epidemic model: An improved framework for the predictive monitoring of COVID-19 pandemic,10.1016/j.isatra.2021.02.016
+Going by the numbers : Learning and modeling COVID-19 disease dynamics,10.1016/j.chaos.2020.110140
+Going by the numbers: Learning and modeling COVID-19 disease dynamics,10.1016/j.chaos.2020.110140
+Gradient-based grey wolf optimizer with Gaussian walk: Application in modelling and prediction of the COVID-19 pandemic,10.1016/j.eswa.2021.114920
+How relevant is the decision of containment measures against COVID-19 applied ahead of time?,10.1016/j.chaos.2020.110164
+Impact of US vaccination strategy on COVID-19 wave dynamics,10.1038/s41598-021-90539-2
+"Impacts of K-12 school reopening on the COVID-19 epidemic in Indiana, USA",10.1016/j.epidem.2021.100487
+Implementation of the SutteARIMA method to predict short-term cases of stock market and COVID-19 pandemic in USA,10.1007/s11135-021-01207-6
+Infection rate models for COVID-19: Model risk and public health news sentiment exposure adjustments,10.1371/journal.pone.0253381
+Initial Simulation of SARS-CoV2 Spread and Intervention Effects in the Continental US,10.1101/2020.03.21.20040303
+Interpretable Sequence Learning for COVID-19 Forecasting,arxiv:2008.00646
+"Interpreting, analysing and modelling COVID-19 mortality data",10.1007/s11071-020-05966-z
+Maximum likelihood-based extended Kalman filter for COVID-19 prediction,10.1016/j.chaos.2021.110922
+Modeling and forecasting of COVID-19 using a hybrid dynamic model based on SEIRD with ARIMA corrections,10.1016/j.idm.2020.11.007
+Modeling and prediction of COVID-19 pandemic using Gaussian mixture model,10.1016/j.chaos.2020.110023
+Modeling COVID-19 Dynamics in Illinois under Nonpharmaceutical Interventions,10.1103/PhysRevX.10.041033
+Modeling COVID-19 scenarios for the United States,10.1038/s41591-020-1132-9
+Modeling the transmission of COVID-19 in the US  A case study,10.1016/j.idm.2020.12.006
+"Modeling, state estimation, and optimal control for the US COVID-19 outbreak",10.1038/s41598-020-67459-8
+Modelling and forecasting of growth rate of new COVID-19 cases in top nine affected countries: Considering conditional variance and asymmetric effect,10.1016/j.chaos.2021.111227
+Neural Relational Autoregression for High-Resolution COVID-19 Forecasting.,NONE
+Non-Pharmaceutical Interventions as Controls to mitigate the spread of epidemics: An analysis using a spatiotemporal PDE model and COVID-19 data,10.1016/j.isatra.2021.02.038
+On an interval prediction of COVID-19 development based on a SEIR epidemic model,10.1016/j.arcontrol.2021.01.006
+On forecasting the community-level COVID-19 cases from the concentration of SARS-CoV-2 in wastewater,10.1016/j.scitotenv.2021.147451
+Optimization using the firefly algorithm of ensemble neural networks with type-2 fuzzy integration for COVID-19 time series prediction,10.1007/s00500-020-05549-5
+Pandemic velocity: Forecasting COVID-19 in the US with a machine learning & Bayesian time series compartmental model,10.1371/journal.pcbi.1008837
+Population agglomeration is a harbinger of the spatial complexity of COVID-19,10.1016/j.cej.2020.127702
+Predicting mortality for Covid-19 in the US using the delayed elasticity method,10.1038/s41598-020-76490-8
+"Predicting the second wave of COVID-19 in Washtenaw County, MI",10.1016/j.jtbi.2020.110461
+"Predicting turning point, duration and attack rate of COVID-19 outbreaks in major Western countries",10.1016/j.chaos.2020.109829
+Projected COVID-19 epidemic in the United States in the context of the effectiveness of a potential vaccine and implications for social distancing and face mask use,10.1016/j.vaccine.2021.02.056
+Public mobility data enables COVID-19 forecasting and management at local and global scales,10.1038/s41598-021-92892-8
+Quantifying compliance with COVID-19 mitigation policies in the US: A mathematical modeling study,10.1016/j.idm.2021.02.004
+REAL-TIME MECHANISTIC BAYESIAN FORECASTS OF COVID-19 MORTALITY,10.1101/2020.12.22.20248736
+Replicating and projecting the path of COVID-19 with a model-implied reproduction number,10.1016/j.idm.2020.08.007
+Risk of a second wave of Covid-19 infections: using artificial intelligence to investigate stringency of physical distancing policies in North America,10.1007/s00264-020-04653-3
+RLIM: a recursive and latent infection model for the prediction of US COVID-19 infections and turning points,10.1007/s11071-021-06520-1
+Simple discrete-time self-exciting models can describe complex dynamic processes: A case study of COVID-19,10.1371/journal.pone.0250015
+Social distancing mediated generalized model to predict epidemic spread of COVID-19,10.1007/s11071-021-06424-0
+Space-time covid-19 Bayesian SIR modeling in South Carolina,10.1371/journal.pone.0242777
+"Spatiotemporal Dynamics, Nowcasting and Forecasting of COVID-19 in the United States",arxiv:2004.14103
+Spatiotemporal transmission dynamics of the COVID-19 pandemic and its impact on critical healthcare capacity,10.1016/j.healthplace.2020.102404
+STAN: Spatio-Temporal Attention Network for Pandemic Prediction Using Real World Evidence,arxiv:2008.04215
+State-level tracking of COVID-19 in the United States,10.1038/s41467-020-19652-6
+State-specific projection of COVID-19 infection in the United States and evaluation of three major control measures,10.1038/s41598-020-80044-3
+Stay nearby or get checked: A Covid-19 control strategy,10.1016/j.idm.2020.10.013
+System inference for the spatio-temporal evolution of infectious diseases: Michigan in the time of COVID-19,10.1007/s00466-020-01894-2
+The Benefits of Vaccinating With the First Available COVID-19 Coronavirus Vaccine,10.1016/j.amepre.2021.01.001
+The challenges of modeling and forecasting the spread of COVID-19,10.1073/pnas.2006520117
+The effect of eviction moratoria on the transmission of SARS-CoV-2,10.1038/s41467-021-22521-5
+The end of social confinement and COVID-19 re-emergence risk,10.1038/s41562-020-0908-8
+The forecast of COVID-19 spread risk at the county level,10.1186/s40537-021-00491-1
+The impact of vaccination to control COVID-19 burden in the United States: A simulation modeling approach,10.1371/journal.pone.0254456
+The Interplay of Demographic Variables and Social Distancing Scores in Deep Prediction of U.S. COVID-19 Cases,10.1080/01621459.2021.1901717
+The predicted trend of COVID-19 in the United States of America under the policy of Opening Up America Again,10.1016/j.idm.2021.05.005
+The spatiotemporal estimation of the risk and the international transmission of COVID-19: a global perspective,10.1038/s41598-020-77242-4
+The suppression effect of emotional contagion in the COVID-19 pandemic: A multilayer hybrid modelling and simulation approach,10.1371/journal.pone.0253579
+Time series forecasting of Covid-19 using deep learning models: India-USA comparative case study,10.1016/j.chaos.2020.110227
+Time series prediction of COVID-19 transmission in America using LSTM and XGBoost algorithms,10.1016/j.rinp.2021.104462
+"Time-dependent heterogeneity leads to transient suppression of the COVID-19 epidemic, not herd immunity",10.1073/PNAS.2015972118
+Time-variant reliability-based prediction of COVID-19 spread using extended SEIVR model and Monte Carlo sampling,10.1016/j.rinp.2021.104364
+Timing social distancing to avert unmanageable COVID-19 hospital surges,10.1073/PNAS.2009033117
+"Weather, Mobility, and COVID-19: A Panel Local Projections Estimator for Understanding and Forecasting Infectious Disease Spread",CorpusID:231674108

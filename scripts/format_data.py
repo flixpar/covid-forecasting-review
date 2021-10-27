@@ -27,4 +27,9 @@ for col in data.columns:
 
 data.title = data.title.map(lambda x: x.replace("&amp;", "&"))
 
+doi_lookup_data = pd.read_csv("../rawdata/doi_lookup.csv")
+doi_lookup = {row[1].title: row[1].doi for row in doi_lookup_data.iterrows()}
+
+data.insert(1, "doi", data.title.map(lambda x: doi_lookup[x]))
+
 data.to_csv("../data/finaldata.csv", index=False)

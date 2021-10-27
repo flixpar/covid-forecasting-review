@@ -22,6 +22,9 @@ data = data.rename(columns={
 data.reader = data.reader.map(lambda x: "further discussion" if "further discussion" in x else x)
 
 for col in data.columns:
+	data[col] = data[col].map(lambda x: x.encode("ascii", "ignore").decode("ascii"))
 	data[col] = data[col].map(lambda x: x.replace(u"\xa0", ""))
+
+data.title = data.title.map(lambda x: x.replace("&amp;", "&"))
 
 data.to_csv("../data/finaldata.csv", index=False)

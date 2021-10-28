@@ -1,4 +1,4 @@
-title,doi,performance_eval,performance_eval_sub,reader,data_cat,method_cat,objective_cat,region_level,Target,Metrics,uncertainty_sub,uncertainty,limitations
+title,doi,performance_eval,performance_eval_sub,reader,data_cat,method_cat,objective_cat,region_level,target,metrics,uncertainty_sub,uncertainty,limitations
 A Mass-Conservation Model for Stability Analysis and Finite-Time Estimation of Spread of COVID-19,10.1109/TCSS.2021.3050476,not evaluable,not evaluable,Felix,"cases, deaths, recoveries",compartmental,Projections,national,"cases, deaths, recoveries",NA,no,no,none
 A Novel Intelligent Computational Approach to Model Epidemiological Trends and Assess the Impact of Non-Pharmacological Interventions for COVID-19,10.1109/JBHI.2020.3027987,not evaluable,not evaluable,Felix,cases,statistical,"Projections, Interventions",national,cases,NA,95% CIs,CIs/PIs,"data, unknown factors that affect covid outcomes"
 A SIR model assumption for the spread of COVID-19 in different communities,10.1016/j.chaos.2020.110057,not evaluable,not evaluable,Felix,"cases, deaths",compartmental,Projections,national,"cases, recoveries",NA,no,no,none

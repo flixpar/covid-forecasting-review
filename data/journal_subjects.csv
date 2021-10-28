@@ -8,7 +8,7 @@ asjc_code,field,subject_area,subject_area_manual
 1311,Genetics,Life Sciences,Biology
 1312,Molecular Biology,Life Sciences,Biology
 1313,Molecular Medicine,Life Sciences,Medicine
-1404,Management Information Systems,Social Sciences & Humanities,
+1404,Management Information Systems,Social Sciences & Humanities,Other
 1500,General Chemical Engineering,Physical Sciences,Engineering
 1600,General Chemistry,Physical Sciences,Other
 1700,General Computer Science,Physical Sciences,Computer Science
@@ -60,7 +60,7 @@ asjc_code,field,subject_area,subject_area_manual
 2800,General Neuroscience,Life Sciences,Other
 2802,Behavioral Neuroscience,Life Sciences,Biology
 2804,Cellular and Molecular Neuroscience,Life Sciences,Biology
-2805,Cognitive Neuroscience,Life Sciences,
+2805,Cognitive Neuroscience,Life Sciences,Biology
 3100,General Physics and Astronomy,Physical Sciences,Physics
 3104,Condensed Matter Physics,Physical Sciences,Physics
 3105,Instrumentation,Physical Sciences,Other
@@ -69,11 +69,11 @@ asjc_code,field,subject_area,subject_area_manual
 3205,Experimental and Cognitive Psychology,Social Sciences & Humanities,Other
 3207,Social Psychology,Social Sciences & Humanities,Other
 3300,General Social Sciences,Social Sciences & Humanities,Other
-3301,Social Sciences (miscellaneous),Social Sciences & Humanities,
+3301,Social Sciences (miscellaneous),Social Sciences & Humanities,Other
 3305,"Geography, Planning and Development",Social Sciences & Humanities,Other
 3309,Library and Information Sciences,Social Sciences & Humanities,Other
 3400,General Veterinary,Health Sciences,Other
 3605,Health Information Management,Health Sciences,Medicine
-NA,preprint,Unknown,Other
-NA,Health(social science),Unknown,Public Health
 NA,Modelling and Simulation,Unknown,Other
+NA,Health(social science),Unknown,Public Health
+NA,preprint,Unknown,Other

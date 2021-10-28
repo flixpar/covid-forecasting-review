@@ -1,0 +1,79 @@
+asjc_code,field,subject_area,subject_area_manual
+1000,Multidisciplinary,Multidisciplinary,Other
+1100,General Agricultural and Biological Sciences,Life Sciences,Biology
+1105,"Ecology, Evolution, Behavior and Systematics",Life Sciences,Biology
+1201,Arts and Humanities (miscellaneous),Social Sciences & Humanities,Other
+1300,"General Biochemistry, Genetics and Molecular Biology",Life Sciences,Biology
+1305,Biotechnology,Life Sciences,Biology
+1311,Genetics,Life Sciences,Biology
+1312,Molecular Biology,Life Sciences,Biology
+1313,Molecular Medicine,Life Sciences,Medicine
+1404,Management Information Systems,Social Sciences & Humanities,
+1500,General Chemical Engineering,Physical Sciences,Engineering
+1600,General Chemistry,Physical Sciences,Other
+1700,General Computer Science,Physical Sciences,Computer Science
+1702,Artificial Intelligence,Physical Sciences,Computer Science
+1703,Computational Theory and Mathematics,Physical Sciences,Computer Science
+1705,Computer Networks and Communications,Physical Sciences,Computer Science
+1706,Computer Science Applications,Physical Sciences,Computer Science
+1707,Computer Vision and Pattern Recognition,Physical Sciences,Computer Science
+1708,Hardware and Architecture,Physical Sciences,Computer Science
+1709,Human-Computer Interaction,Physical Sciences,Computer Science
+1710,Information Systems,Physical Sciences,Computer Science
+1712,Software,Physical Sciences,Computer Science
+1802,Information Systems and Management,Social Sciences & Humanities,Other
+1803,Management Science and Operations Research,Social Sciences & Humanities,Other
+1804,"Statistics, Probability and Uncertainty",Social Sciences & Humanities,Mathematics
+2200,General Engineering,Physical Sciences,Engineering
+2202,Aerospace Engineering,Physical Sciences,Engineering
+2206,Computational Mechanics,Physical Sciences,Engineering
+2207,Control and Systems Engineering,Physical Sciences,Engineering
+2208,Electrical and Electronic Engineering,Physical Sciences,Engineering
+2209,Industrial and Manufacturing Engineering,Physical Sciences,Engineering
+2210,Mechanical Engineering,Physical Sciences,Engineering
+2211,Mechanics of Materials,Physical Sciences,Other
+2212,Ocean Engineering,Physical Sciences,Engineering
+2303,Ecology,Physical Sciences,Other
+2304,Environmental Chemistry,Physical Sciences,Other
+2305,Environmental Engineering,Physical Sciences,Engineering
+2310,Pollution,Physical Sciences,Other
+2311,Waste Management and Disposal,Physical Sciences,Other
+2400,General Immunology and Microbiology,Life Sciences,Biology
+2404,Microbiology,Life Sciences,Biology
+2405,Parasitology,Life Sciences,Medicine
+2406,Virology,Life Sciences,Biology
+2600,General Mathematics,Physical Sciences,Mathematics
+2604,Applied Mathematics,Physical Sciences,Mathematics
+2605,Computational Mathematics,Physical Sciences,Mathematics
+2608,Geometry and Topology,Physical Sciences,Mathematics
+2613,Statistics and Probability,Physical Sciences,Mathematics
+2614,Theoretical Computer Science,Physical Sciences,Computer Science
+2700,General Medicine,Health Sciences,Medicine
+2713,Epidemiology,Health Sciences,Epidemiology
+2718,Health Informatics,Health Sciences,Medicine
+2719,Health Policy,Health Sciences,Public Health
+2725,Infectious Diseases,Health Sciences,Epidemiology
+2726,Microbiology (medical),Health Sciences,Medicine
+2732,Orthopedics and Sports Medicine,Health Sciences,Medicine
+2739,"Public Health, Environmental and Occupational Health",Health Sciences,Public Health
+2746,Surgery,Health Sciences,Medicine
+2800,General Neuroscience,Life Sciences,Other
+2802,Behavioral Neuroscience,Life Sciences,Biology
+2804,Cellular and Molecular Neuroscience,Life Sciences,Biology
+2805,Cognitive Neuroscience,Life Sciences,
+3100,General Physics and Astronomy,Physical Sciences,Physics
+3104,Condensed Matter Physics,Physical Sciences,Physics
+3105,Instrumentation,Physical Sciences,Other
+3109,Statistical and Nonlinear Physics,Physical Sciences,Physics
+3204,Developmental and Educational Psychology,Social Sciences & Humanities,Other
+3205,Experimental and Cognitive Psychology,Social Sciences & Humanities,Other
+3207,Social Psychology,Social Sciences & Humanities,Other
+3300,General Social Sciences,Social Sciences & Humanities,Other
+3301,Social Sciences (miscellaneous),Social Sciences & Humanities,
+3305,"Geography, Planning and Development",Social Sciences & Humanities,Other
+3309,Library and Information Sciences,Social Sciences & Humanities,Other
+3400,General Veterinary,Health Sciences,Other
+3605,Health Information Management,Health Sciences,Medicine
+NA,preprint,Unknown,Other
+NA,Health(social science),Unknown,Public Health
+NA,Modelling and Simulation,Unknown,Other

@@ -1,50 +1,50 @@
 title,issn,subjects
-IEEE Transactions on Computational Social Systems,2329-924X,Human-Computer Interaction; Social Sciences (miscellaneous); Modelling and Simulation
-IEEE Journal of Biomedical and Health Informatics,2168-2194,Health Information Management; Electrical and Electronic Engineering; Computer Science Applications; Biotechnology
-Chaos Solitons & Fractals,0960-0779,General Mathematics; General Physics and Astronomy; Statistical and Nonlinear Physics; Applied Mathematics
+American Journal of Preventive Medicine,0749-3797,"Public Health, Environmental and Occupational Health; Epidemiology"
 American Journal of Public Health,0090-0036,"Public Health, Environmental and Occupational Health"
-PLoS ONE,1932-6203,Multidisciplinary
-Scientific Reports,2045-2322,Multidisciplinary
-Computers in Biology and Medicine,0010-4825,Health Informatics; Computer Science Applications
-Nonlinear Dynamics,0924-090X,Electrical and Electronic Engineering; Applied Mathematics; Mechanical Engineering; Ocean Engineering; Aerospace Engineering; Control and Systems Engineering
-European Journal of Epidemiology,0393-2990,Epidemiology
-Mathematical Methods in the Applied Sciences,0170-4214,General Engineering; General Mathematics
-Infectious Disease Modelling,2468-0427,Applied Mathematics; Infectious Diseases; Health Policy
-Proceedings of the Royal Society A Mathematical Physical and Engineering Sciences,1364-5021,General Physics and Astronomy; General Engineering; General Mathematics
-Computer Methods in Applied Mechanics and Engineering,0045-7825,Computer Science Applications; General Physics and Astronomy; Mechanical Engineering; Mechanics of Materials; Computational Mechanics
-International Journal of Geographical Information Science,1365-8816,"Library and Information Sciences; Geography, Planning and Development; Information Systems"
-Physica A Statistical Mechanics and its Applications,0378-4371,Condensed Matter Physics; Statistics and Probability
-PLoS Computational Biology,1553-7358,"Computational Theory and Mathematics; Cellular and Molecular Neuroscience; Genetics; Molecular Biology; Ecology; Modelling and Simulation; Ecology, Evolution, Behavior and Systematics"
-Journal of Travel Medicine,1195-1982,General Medicine
+Annual Reviews in Control,1367-5788,Control and Systems Engineering; Software
+"Chaos, Solitons & Fractals",0960-0779,General Mathematics; General Physics and Astronomy; Statistical and Nonlinear Physics; Applied Mathematics
+Chemical Engineering Journal,1385-8947,Industrial and Manufacturing Engineering; General Chemical Engineering; Environmental Chemistry; General Chemistry
+Cognitive Computation,1866-9956,Cognitive Neuroscience; Computer Science Applications; Computer Vision and Pattern Recognition
 Computational Mechanics,0178-7675,Applied Mathematics; Computational Mathematics; Computational Theory and Mathematics; Mechanical Engineering; Ocean Engineering; Computational Mechanics
-IEEE Transactions on Instrumentation and Measurement,0018-9456,Electrical and Electronic Engineering; Instrumentation
+Computer Methods in Applied Mechanics and Engineering,0045-7825,Computer Science Applications; General Physics and Astronomy; Mechanical Engineering; Mechanics of Materials; Computational Mechanics
+Computers in Biology and Medicine,0010-4825,Health Informatics; Computer Science Applications
+Decision Support Systems,0167-9236,Information Systems and Management; Arts and Humanities (miscellaneous); Developmental and Educational Psychology; Information Systems; Management Information Systems
 Emerging Infectious Diseases,1080-6059,Infectious Diseases; Microbiology (medical); Epidemiology
-Journal of Medical Virology,0146-6615,Infectious Diseases; Virology
-GigaScience,2047-217X,Computer Science Applications; Health Informatics
-The Science of The Total Environment,0048-9697,Pollution; Waste Management and Disposal; Environmental Chemistry; Environmental Engineering
-PLoS Biology,1545-7885,"General Agricultural and Biological Sciences; General Immunology and Microbiology; General Biochemistry, Genetics and Molecular Biology; General Neuroscience"
-Health & Place,1353-8292,"Public Health, Environmental and Occupational Health; Geography, Planning and Development; Health(social science)"
+Epidemics,1755-4365,"Virology; Infectious Diseases; Public Health, Environmental and Occupational Health; Microbiology; Parasitology; Epidemiology"
+European Journal of Epidemiology,0393-2990,Epidemiology
 European Journal of Operational Research,0377-2217,Information Systems and Management; Management Science and Operations Research; Modelling and Simulation; General Computer Science; Industrial and Manufacturing Engineering
 Expert Systems with Applications,0957-4174,Artificial Intelligence; Computer Science Applications; General Engineering
-Physical Review X,2160-3308,General Physics and Astronomy
-Nature Medicine,1078-8956,"General Biochemistry, Genetics and Molecular Biology; General Medicine"
-Journal of Theoretical Biology,0022-5193,"Applied Mathematics; General Agricultural and Biological Sciences; General Immunology and Microbiology; General Biochemistry, Genetics and Molecular Biology; Modelling and Simulation; General Medicine; Statistics and Probability"
-Vaccine,0264-410X,"Infectious Diseases; Public Health, Environmental and Occupational Health; General Veterinary; General Immunology and Microbiology; Molecular Medicine"
-International Orthopaedics,0341-2695,Orthopedics and Sports Medicine; Surgery
-Nature Communications,2041-1723,"General Physics and Astronomy; General Biochemistry, Genetics and Molecular Biology; General Chemistry"
-American Journal of Preventive Medicine,0749-3797,"Public Health, Environmental and Occupational Health; Epidemiology"
-Journal of the American Statistical Association,0162-1459,"Statistics, Probability and Uncertainty; Statistics and Probability"
-Proceedings of the National Academy of Sciences,0027-8424,Multidisciplinary
-Journal Of Big Data,2196-1115,Information Systems and Management; Computer Networks and Communications; Hardware and Architecture; Information Systems
-Results in Physics,2211-3797,General Physics and Astronomy
-Cognitive Computation,1866-9956,Cognitive Neuroscience; Computer Science Applications; Computer Vision and Pattern Recognition
-Decision Support Systems,0167-9236,Information Systems and Management; Arts and Humanities (miscellaneous); Developmental and Educational Psychology; Information Systems; Management Information Systems
-Epidemics,1755-4365,"Virology; Infectious Diseases; Public Health, Environmental and Occupational Health; Microbiology; Parasitology; Epidemiology"
+GigaScience,2047-217X,Computer Science Applications; Health Informatics
+Health & Place,1353-8292,"Public Health, Environmental and Occupational Health; Geography, Planning and Development; Health(social science)"
+IEEE Journal of Biomedical and Health Informatics,2168-2194,Health Information Management; Electrical and Electronic Engineering; Computer Science Applications; Biotechnology
+IEEE Transactions on Computational Social Systems,2329-924X,Human-Computer Interaction; Social Sciences (miscellaneous); Modelling and Simulation
+IEEE Transactions on Instrumentation and Measurement,0018-9456,Electrical and Electronic Engineering; Instrumentation
 ISA Transactions,0019-0578,Applied Mathematics; Control and Systems Engineering; Electrical and Electronic Engineering; Computer Science Applications; Instrumentation
+Infectious Disease Modelling,2468-0427,Applied Mathematics; Infectious Diseases; Health Policy
+International Journal of Geographical Information Science,1365-8816,"Library and Information Sciences; Geography, Planning and Development; Information Systems"
+International Orthopaedics,0341-2695,Orthopedics and Sports Medicine; Surgery
 JAMA Network Open,2574-3805,General Medicine
+Journal of Big Data,2196-1115,Information Systems and Management; Computer Networks and Communications; Hardware and Architecture; Information Systems
 Journal of Biomedical Informatics,1532-0464,Health Informatics; Computer Science Applications
-Quality & Quantity,0033-5177,General Social Sciences; Statistics and Probability
-Soft Computing,1432-7643,Geometry and Topology; Theoretical Computer Science; Software
+Journal of Medical Virology,0146-6615,Infectious Diseases; Virology
+Journal of Theoretical Biology,0022-5193,"Applied Mathematics; General Agricultural and Biological Sciences; General Immunology and Microbiology; General Biochemistry, Genetics and Molecular Biology; Modelling and Simulation; General Medicine; Statistics and Probability"
+Journal of Travel Medicine,1195-1982,General Medicine
+Journal of the American Statistical Association,0162-1459,"Statistics, Probability and Uncertainty; Statistics and Probability"
+Mathematical Methods in the Applied Sciences,0170-4214,General Engineering; General Mathematics
+Nature Communications,2041-1723,"General Physics and Astronomy; General Biochemistry, Genetics and Molecular Biology; General Chemistry"
 Nature Human Behaviour,2397-3374,Behavioral Neuroscience; Experimental and Cognitive Psychology; Social Psychology
-Annual Reviews in Control,1367-5788,Control and Systems Engineering; Software
-Chemical Engineering Journal,1385-8947,Industrial and Manufacturing Engineering; General Chemical Engineering; Environmental Chemistry; General Chemistry
+Nature Medicine,1078-8956,"General Biochemistry, Genetics and Molecular Biology; General Medicine"
+Nonlinear Dynamics,0924-090X,Electrical and Electronic Engineering; Applied Mathematics; Mechanical Engineering; Ocean Engineering; Aerospace Engineering; Control and Systems Engineering
+PLOS Biology,1545-7885,"General Agricultural and Biological Sciences; General Immunology and Microbiology; General Biochemistry, Genetics and Molecular Biology; General Neuroscience"
+PLOS Computational Biology,1553-7358,"Computational Theory and Mathematics; Cellular and Molecular Neuroscience; Genetics; Molecular Biology; Ecology; Modelling and Simulation; Ecology, Evolution, Behavior and Systematics"
+PLOS ONE,1932-6203,Multidisciplinary
+Physica A: Statistical Mechanics and its Applications,0378-4371,Condensed Matter Physics; Statistics and Probability
+Physical Review X,2160-3308,General Physics and Astronomy
+Proceedings of the National Academy of Sciences,0027-8424,Multidisciplinary
+"Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",1364-5021,General Physics and Astronomy; General Engineering; General Mathematics
+Quality & Quantity,0033-5177,General Social Sciences; Statistics and Probability
+Results in Physics,2211-3797,General Physics and Astronomy
+Science of The Total Environment,0048-9697,Pollution; Waste Management and Disposal; Environmental Chemistry; Environmental Engineering
+Scientific Reports,2045-2322,Multidisciplinary
+Soft Computing,1432-7643,Geometry and Topology; Theoretical Computer Science; Software
+Vaccine,0264-410X,"Infectious Diseases; Public Health, Environmental and Occupational Health; General Veterinary; General Immunology and Microbiology; Molecular Medicine"

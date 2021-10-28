@@ -66,13 +66,26 @@ def fetch_crossref(d):
         subjects = [s["name"] for s in subjects]
         subjects = "; ".join(subjects)
         m = {
-            "title": r.get("title"),
+            "title": fix_journal_title(r.get("title")),
             "issn": d,
             "subjects": subjects,
         }
         return m, resp
     except:
         return {"issn": d}, resp
+
+manual_journal_fixes = {
+    "Chaos Solitons & Fractals": "Chaos, Solitons & Fractals",
+    "PLoS Biology": "PLOS Biology",
+    "PLoS ONE": "PLOS ONE",
+    "PLoS Computational Biology": "PLOS Computational Biology",
+    "Proceedings of the Royal Society A Mathematical Physical and Engineering Sciences": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",
+    "Journal Of Big Data": "Journal of Big Data",
+    "Physica A Statistical Mechanics and its Applications": "Physica A: Statistical Mechanics and its Applications",
+    "The Science of The Total Environment": "Science of The Total Environment",
+}
+def fix_journal_title(j):
+    return manual_journal_fixes.get(j, j)
 
 if __name__ == "__main__":
     main()

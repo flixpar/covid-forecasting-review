@@ -1,6 +1,6 @@
 import pandas as pd
 
-rawdata = pd.read_excel("../rawdata/FinalSet_Cleaned.xlsx", skiprows=1, keep_default_na=False, engine="openpyxl")
+rawdata = pd.read_csv("../rawdata/FinalSet_Cleaned_V2.csv", skiprows=1, keep_default_na=False)
 
 data = rawdata.copy()
 data = rawdata.drop(columns=["Misc Tags"])
@@ -10,8 +10,9 @@ data = data.rename(columns={
 	"Performance Eval Subcategory": "performance_eval_sub",
 	"Reader": "reader",
 	"Data Categories": "data_cat",
-	"Category": "method_cat",
-	"Families": "objective_cat",
+	"Method": "method_cat",
+	"Forecasting Window": "forecasting_window",
+	"Additional Categories": "forecasting_window_sub",
 	"Level": "region_level",
 	"Target": "target",
 	"Metrics": "metrics",

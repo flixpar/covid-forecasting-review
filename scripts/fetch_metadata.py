@@ -28,7 +28,7 @@ def main():
     metadata_df.sort_values(by=["title"], inplace=True)
     metadata_df.to_csv("../data/metadata.csv", index=False)
 
-    with open("../rawdata/metadata_raw.json", "w") as f:
+    with open("../raw_responses/metadata_raw.json", "w") as f:
         json.dump(raw_responses, f)
 
 def fetch_crossref(d):

@@ -39,5 +39,5 @@ for d in tqdm.tqdm(dois):
 	data = [{"id": x["paperId"], "title": x["title"], "doi": getDOI(x)} for x in data]
 	references_data[d] = data
 
-with open("../rawdata/references_metadata_raw.json", "w") as f:
+with open("../raw_responses/references_metadata_raw.json", "w") as f:
 	json.dump(references_data, f)

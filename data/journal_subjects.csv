@@ -46,7 +46,7 @@ asjc_code,field,subject_area,subject_area_manual
 2604,Applied Mathematics,Physical Sciences,Mathematics
 2605,Computational Mathematics,Physical Sciences,Mathematics;Computer Science
 2608,Geometry and Topology,Physical Sciences,Mathematics
-2611,Modeling and Simulation,Physical Sciences,
+2611,Modeling and Simulation,Physical Sciences,Engineering
 2613,Statistics and Probability,Physical Sciences,Mathematics
 2614,Theoretical Computer Science,Physical Sciences,Computer Science
 2700,General Medicine,Health Sciences,Medicine
@@ -72,7 +72,7 @@ asjc_code,field,subject_area,subject_area_manual
 3300,General Social Sciences,Social Sciences & Humanities,Other
 3301,Social Sciences (miscellaneous),Social Sciences & Humanities,Other
 3305,"Geography, Planning and Development",Social Sciences & Humanities,Other
-3306,Health (social science),Social Sciences & Humanities,
+3306,Health (social science),Social Sciences & Humanities,Public Health
 3309,Library and Information Sciences,Social Sciences & Humanities,Other
 3400,General Veterinary,Health Sciences,Medicine
 3605,Health Information Management,Health Sciences,Medicine;Public Health

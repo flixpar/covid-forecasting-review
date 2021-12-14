@@ -1,14 +1,14 @@
-field,subject_manual
+﻿field,subject_manual
 Aerospace Engineering,Engineering
 Applied Mathematics,Mathematics
 Artificial Intelligence,Computer Science
 Arts and Humanities (miscellaneous),Other
-Behavioral Neuroscience,Biology
-Biotechnology,Biology
-Cellular and Molecular Neuroscience,Biology
-Cognitive Neuroscience,Biology
-Computational Mathematics,Mathematics
-Computational Mechanics,Engineering
+Behavioral Neuroscience,Natural Science
+Biotechnology,Natural Science
+Cellular and Molecular Neuroscience,Natural Science
+Cognitive Neuroscience,Natural Science
+Computational Mathematics,Mathematics;Computer Science
+Computational Mechanics,Engineering;Computer Science
 Computational Theory and Mathematics,Computer Science
 Computer Networks and Communications,Computer Science
 Computer Science Applications,Computer Science
@@ -16,32 +16,32 @@ Computer Vision and Pattern Recognition,Computer Science
 Condensed Matter Physics,Physics
 Control and Systems Engineering,Engineering
 Developmental and Educational Psychology,Other
-Ecology,Other
-"Ecology, Evolution, Behavior and Systematics",Biology
+Ecology,Natural Science
+"Ecology, Evolution, Behavior and Systematics",Natural Science
 Electrical and Electronic Engineering,Engineering
-Environmental Chemistry,Other
+Environmental Chemistry,Chemistry
 Environmental Engineering,Engineering
 Epidemiology,Epidemiology
 Experimental and Cognitive Psychology,Other
-General Agricultural and Biological Sciences,Biology
-"General Biochemistry, Genetics and Molecular Biology",Biology
+General Agricultural and Biological Sciences,Natural Science
+"General Biochemistry, Genetics and Molecular Biology",Natural Science
 General Chemical Engineering,Engineering
-General Chemistry,Other
+General Chemistry,Chemistry
 General Computer Science,Computer Science
 General Engineering,Engineering
-General Immunology and Microbiology,Biology
+General Immunology and Microbiology,Natural Science
 General Mathematics,Mathematics
 General Medicine,Medicine
-General Neuroscience,Other
+General Neuroscience,Natural Science
 General Physics and Astronomy,Physics
 General Social Sciences,Other
-General Veterinary,Other
-Genetics,Biology
+General Veterinary,Medicine
+Genetics,Natural Science
 "Geography, Planning and Development",Other
 Geometry and Topology,Mathematics
 Hardware and Architecture,Computer Science
-Health Informatics,Medicine
-Health Information Management,Medicine
+Health Informatics,Medicine;Public Health
+Health Information Management,Medicine;Public Health
 Health Policy,Public Health
 Health(social science),Public Health
 Human-Computer Interaction,Computer Science
@@ -49,22 +49,22 @@ Industrial and Manufacturing Engineering,Engineering
 Infectious Diseases,Epidemiology
 Information Systems,Computer Science
 Information Systems and Management,Other
-Instrumentation,Other
+Instrumentation,Engineering
 Library and Information Sciences,Other
 Management Information Systems,Other
-Management Science and Operations Research,Other
+Management Science and Operations Research,Engineering
 Mechanical Engineering,Engineering
-Mechanics of Materials,Other
-Microbiology,Biology
+Mechanics of Materials,Engineering
+Microbiology,Natural Science
 Microbiology (medical),Medicine
-Modelling and Simulation,Other
-Molecular Biology,Biology
+Modelling and Simulation,Engineering
+Molecular Biology,Natural Science
 Molecular Medicine,Medicine
 Multidisciplinary,Other
 Ocean Engineering,Engineering
 Orthopedics and Sports Medicine,Medicine
-Parasitology,Medicine
-Pollution,Other
+Parasitology,Natural Science;Public Health
+Pollution,Public Health
 "Public Health, Environmental and Occupational Health",Public Health
 Social Psychology,Other
 Social Sciences (miscellaneous),Other
@@ -74,6 +74,6 @@ Statistics and Probability,Mathematics
 "Statistics, Probability and Uncertainty",Mathematics
 Surgery,Medicine
 Theoretical Computer Science,Computer Science
-Virology,Biology
+Virology,Natural Science;Public Health
 Waste Management and Disposal,Other
 preprint,Other

@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-12-14">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="10.1109/TCSS.2021.3050476" label="10.1109/TCSS.2021.3050476" />
+      <node id="10.1109/JBHI.2020.3027987" label="10.1109/JBHI.2020.3027987" />
+      <node id="10.1016/j.chaos.2020.110057" label="10.1016/j.chaos.2020.110057" />
+      <node id="10.1016/j.chaos.2021.110682" label="10.1016/j.chaos.2021.110682" />
+      <node id="10.2105/AJPH.2021.306220" label="10.2105/AJPH.2021.306220" />
+      <node id="10.1016/j.isatra.2021.01.029" label="10.1016/j.isatra.2021.01.029" />
+      <node id="10.1371/journal.pone.0236386" label="10.1371/journal.pone.0236386" />
+      <node id="10.1016/j.dss.2021.113630" label="10.1016/j.dss.2021.113630" />
+      <node id="10.1007/s11071-020-05848-4" label="10.1007/s11071-020-05848-4" />
+      <node id="10.1038/s41598-021-91514-7" label="10.1038/s41598-021-91514-7" />
+      <node id="10.1038/s41598-021-94609-3" label="10.1038/s41598-021-94609-3" />
+      <node id="10.1038/s41598-021-92000-w" label="10.1038/s41598-021-92000-w" />
+      <node id="10.1016/j.compbiomed.2021.104421" label="10.1016/j.compbiomed.2021.104421" />
+      <node id="10.1016/j.chaos.2020.110240" label="10.1016/j.chaos.2020.110240" />
+      <node id="arxiv:2006.05955" label="arxiv:2006.05955" />
+      <node id="10.1101/2021.05.23.21257689" label="10.1101/2021.05.23.21257689" />
+      <node id="10.1101/2021.04.14.21255507" label="10.1101/2021.04.14.21255507" />
+      <node id="10.1038/s41598-021-91365-2" label="10.1038/s41598-021-91365-2" />
+      <node id="10.1007/s11071-020-05879-x" label="10.1007/s11071-020-05879-x" />
+      <node id="10.1007/s12559-020-09801-w" label="10.1007/s12559-020-09801-w" />
+      <node id="10.1007/s10654-020-00676-7" label="10.1007/s10654-020-00676-7" />
+      <node id="10.1002/mma.7481" label="10.1002/mma.7481" />
+      <node id="10.1016/j.chaos.2020.109959" label="10.1016/j.chaos.2020.109959" />
+      <node id="10.1016/j.idm.2021.02.001" label="10.1016/j.idm.2021.02.001" />
+      <node id="10.1001/jamanetworkopen.2021.10782" label="10.1001/jamanetworkopen.2021.10782" />
+      <node id="10.1098/rspa.2020.0440" label="10.1098/rspa.2020.0440" />
+      <node id="10.1038/s41598-021-93545-6" label="10.1038/s41598-021-93545-6" />
+      <node id="10.1016/j.cma.2021.113891" label="10.1016/j.cma.2021.113891" />
+      <node id="10.1371/journal.pone.0242588" label="10.1371/journal.pone.0242588" />
+      <node id="10.1038/s41598-021-90227-1" label="10.1038/s41598-021-90227-1" />
+      <node id="10.1371/journal.pone.0239175" label="10.1371/journal.pone.0239175" />
+      <node id="10.1371/journal.pone.0250110" label="10.1371/journal.pone.0250110" />
+      <node id="10.1101/2020.07.25.20162016" label="10.1101/2020.07.25.20162016" />
+      <node id="10.1016/j.jbi.2021.103791" label="10.1016/j.jbi.2021.103791" />
+      <node id="10.1080/13658816.2021.1873999" label="10.1080/13658816.2021.1873999" />
+      <node id="10.1016/j.physa.2020.125460" label="10.1016/j.physa.2020.125460" />
+      <node id="10.1371/journal.pcbi.1009149" label="10.1371/journal.pcbi.1009149" />
+      <node id="10.1093/jtm/taaa226" label="10.1093/jtm/taaa226" />
+      <node id="10.1016/j.chaos.2020.110512" label="10.1016/j.chaos.2020.110512" />
+      <node id="10.1016/j.chaos.2020.110152" label="10.1016/j.chaos.2020.110152" />
+      <node id="10.1038/s41598-021-85496-9" label="10.1038/s41598-021-85496-9" />
+      <node id="10.1016/j.chaos.2020.110121" label="10.1016/j.chaos.2020.110121" />
+      <node id="10.1101/2020.09.28.20203109" label="10.1101/2020.09.28.20203109" />
+      <node id="arxiv:2102.06684" label="arxiv:2102.06684" />
+      <node id="10.1371/journal.pone.0247182" label="10.1371/journal.pone.0247182" />
+      <node id="10.1101/2020.05.15.20103655" label="10.1101/2020.05.15.20103655" />
+      <node id="10.1007/s00466-020-01911-4" label="10.1007/s00466-020-01911-4" />
+      <node id="10.1109/TIM.2020.3041833" label="10.1109/TIM.2020.3041833" />
+      <node id="10.1371/journal.pone.0240877" label="10.1371/journal.pone.0240877" />
+      <node id="10.3201/eid2707.210118" label="10.3201/eid2707.210118" />
+      <node id="10.1371/journal.pone.0245919" label="10.1371/journal.pone.0245919" />
+      <node id="arxiv:2105.05471" label="arxiv:2105.05471" />
+      <node id="10.1101/2020.05.24.20111989" label="10.1101/2020.05.24.20111989" />
+      <node id="10.1371/journal.pone.0236860" label="10.1371/journal.pone.0236860" />
+      <node id="10.1002/jmv.26897" label="10.1002/jmv.26897" />
+      <node id="10.1101/2020.07.22.20160036" label="10.1101/2020.07.22.20160036" />
+      <node id="10.1093/gigascience/giab009" label="10.1093/gigascience/giab009" />
+      <node id="10.1016/j.scitotenv.2020.144151" label="10.1016/j.scitotenv.2020.144151" />
+      <node id="10.1371/journal.pbio.3001211" label="10.1371/journal.pbio.3001211" />
+      <node id="10.1016/j.chaos.2020.110118" label="10.1016/j.chaos.2020.110118" />
+      <node id="10.1016/j.healthplace.2021.102538" label="10.1016/j.healthplace.2021.102538" />
+      <node id="arxiv:2007.05180" label="arxiv:2007.05180" />
+      <node id="10.1007/s11071-020-05946-3" label="10.1007/s11071-020-05946-3" />
+      <node id="10.1016/j.chaos.2020.109924" label="10.1016/j.chaos.2020.109924" />
+      <node id="10.1016/j.chaos.2020.110027" label="10.1016/j.chaos.2020.110027" />
+      <node id="10.1371/journal.pone.0244173" label="10.1371/journal.pone.0244173" />
+      <node id="10.1101/2020.03.27.20043752" label="10.1101/2020.03.27.20043752" />
+      <node id="10.1016/j.chaos.2020.110547" label="10.1016/j.chaos.2020.110547" />
+      <node id="10.1016/j.ejor.2020.08.001" label="10.1016/j.ejor.2020.08.001" />
+      <node id="10.1016/j.chaos.2020.110248" label="10.1016/j.chaos.2020.110248" />
+      <node id="10.1016/j.chaos.2020.110336" label="10.1016/j.chaos.2020.110336" />
+      <node id="10.1016/j.chaos.2020.109948" label="10.1016/j.chaos.2020.109948" />
+      <node id="10.1016/j.chaos.2020.110196" label="10.1016/j.chaos.2020.110196" />
+      <node id="10.1038/s41598-020-77292-8" label="10.1038/s41598-020-77292-8" />
+      <node id="10.1016/j.isatra.2021.02.016" label="10.1016/j.isatra.2021.02.016" />
+      <node id="10.1016/j.chaos.2020.110140" label="10.1016/j.chaos.2020.110140" />
+      <node id="10.1016/j.eswa.2021.114920" label="10.1016/j.eswa.2021.114920" />
+      <node id="10.1016/j.chaos.2020.110164" label="10.1016/j.chaos.2020.110164" />
+      <node id="10.1038/s41598-021-90539-2" label="10.1038/s41598-021-90539-2" />
+      <node id="10.1016/j.epidem.2021.100487" label="10.1016/j.epidem.2021.100487" />
+      <node id="10.1007/s11135-021-01207-6" label="10.1007/s11135-021-01207-6" />
+      <node id="10.1371/journal.pone.0253381" label="10.1371/journal.pone.0253381" />
+      <node id="10.1101/2020.03.21.20040303" label="10.1101/2020.03.21.20040303" />
+      <node id="arxiv:2008.00646" label="arxiv:2008.00646" />
+      <node id="10.1007/s11071-020-05966-z" label="10.1007/s11071-020-05966-z" />
+      <node id="10.1016/j.chaos.2021.110922" label="10.1016/j.chaos.2021.110922" />
+      <node id="10.1103/PhysRevX.10.041033" label="10.1103/PhysRevX.10.041033" />
+      <node id="10.1038/s41591-020-1132-9" label="10.1038/s41591-020-1132-9" />
+      <node id="10.1016/j.idm.2020.11.007" label="10.1016/j.idm.2020.11.007" />
+      <node id="10.1016/j.chaos.2020.110023" label="10.1016/j.chaos.2020.110023" />
+      <node id="10.1016/j.idm.2020.12.006" label="10.1016/j.idm.2020.12.006" />
+      <node id="10.1038/s41598-020-67459-8" label="10.1038/s41598-020-67459-8" />
+      <node id="10.1016/j.chaos.2021.111227" label="10.1016/j.chaos.2021.111227" />
+      <node id="NONE" label="NONE" />
+      <node id="10.1016/j.isatra.2021.02.038" label="10.1016/j.isatra.2021.02.038" />
+      <node id="10.1016/j.arcontrol.2021.01.006" label="10.1016/j.arcontrol.2021.01.006" />
+      <node id="10.1016/j.scitotenv.2021.147451" label="10.1016/j.scitotenv.2021.147451" />
+      <node id="10.1007/s00500-020-05549-5" label="10.1007/s00500-020-05549-5" />
+      <node id="10.1371/journal.pcbi.1008837" label="10.1371/journal.pcbi.1008837" />
+      <node id="10.1016/j.cej.2020.127702" label="10.1016/j.cej.2020.127702" />
+      <node id="10.1038/s41598-020-76490-8" label="10.1038/s41598-020-76490-8" />
+      <node id="10.1016/j.jtbi.2020.110461" label="10.1016/j.jtbi.2020.110461" />
+      <node id="10.1016/j.chaos.2020.109829" label="10.1016/j.chaos.2020.109829" />
+      <node id="10.1016/j.vaccine.2021.02.056" label="10.1016/j.vaccine.2021.02.056" />
+      <node id="10.1038/s41598-021-92892-8" label="10.1038/s41598-021-92892-8" />
+      <node id="10.1016/j.idm.2021.02.004" label="10.1016/j.idm.2021.02.004" />
+      <node id="10.1101/2020.12.22.20248736" label="10.1101/2020.12.22.20248736" />
+      <node id="10.1007/s11071-021-06520-1" label="10.1007/s11071-021-06520-1" />
+      <node id="10.1016/j.idm.2020.08.007" label="10.1016/j.idm.2020.08.007" />
+      <node id="10.1007/s00264-020-04653-3" label="10.1007/s00264-020-04653-3" />
+      <node id="arxiv:2008.04215" label="arxiv:2008.04215" />
+      <node id="10.1371/journal.pone.0250015" label="10.1371/journal.pone.0250015" />
+      <node id="10.1007/s11071-021-06424-0" label="10.1007/s11071-021-06424-0" />
+      <node id="10.1371/journal.pone.0242777" label="10.1371/journal.pone.0242777" />
+      <node id="arxiv:2004.14103" label="arxiv:2004.14103" />
+      <node id="10.1016/j.healthplace.2020.102404" label="10.1016/j.healthplace.2020.102404" />
+      <node id="10.1038/s41562-020-00969-7" label="10.1038/s41562-020-00969-7" />
+      <node id="10.1038/s41467-020-19652-6" label="10.1038/s41467-020-19652-6" />
+      <node id="10.1038/s41598-020-80044-3" label="10.1038/s41598-020-80044-3" />
+      <node id="10.1007/s00466-020-01894-2" label="10.1007/s00466-020-01894-2" />
+      <node id="10.1016/j.amepre.2021.01.001" label="10.1016/j.amepre.2021.01.001" />
+      <node id="10.1080/01621459.2021.1901717" label="10.1080/01621459.2021.1901717" />
+      <node id="10.1073/pnas.2006520117" label="10.1073/pnas.2006520117" />
+      <node id="10.1038/s41467-021-22521-5" label="10.1038/s41467-021-22521-5" />
+      <node id="10.1038/s41562-020-0908-8" label="10.1038/s41562-020-0908-8" />
+      <node id="10.1186/s40537-021-00491-1" label="10.1186/s40537-021-00491-1" />
+      <node id="10.1371/journal.pone.0254456" label="10.1371/journal.pone.0254456" />
+      <node id="10.1016/j.idm.2021.05.005" label="10.1016/j.idm.2021.05.005" />
+      <node id="10.1038/s41598-020-77242-4" label="10.1038/s41598-020-77242-4" />
+      <node id="10.1371/journal.pone.0253579" label="10.1371/journal.pone.0253579" />
+      <node id="10.1016/j.chaos.2020.110227" label="10.1016/j.chaos.2020.110227" />
+      <node id="10.1016/j.rinp.2021.104462" label="10.1016/j.rinp.2021.104462" />
+      <node id="10.1073/PNAS.2015972118" label="10.1073/PNAS.2015972118" />
+      <node id="10.1016/j.rinp.2021.104364" label="10.1016/j.rinp.2021.104364" />
+      <node id="10.1073/PNAS.2009033117" label="10.1073/PNAS.2009033117" />
+      <node id="CorpusID:231674108" label="CorpusID:231674108" />
+      <node id="10.1016/j.idm.2020.10.013" label="10.1016/j.idm.2020.10.013" />
+    </nodes>
+    <edges>
+      <edge source="10.1016/j.isatra.2021.01.029" target="10.1016/j.chaos.2020.110023" id="0" />
+      <edge source="10.1007/s11071-020-05848-4" target="10.1007/s11071-020-05946-3" id="1" />
+      <edge source="10.1038/s41598-021-91514-7" target="10.1073/pnas.2006520117" id="2" />
+      <edge source="10.1038/s41598-021-91514-7" target="10.1038/s41598-020-77292-8" id="3" />
+      <edge source="10.1038/s41598-021-91514-7" target="10.1038/s41591-020-1132-9" id="4" />
+      <edge source="10.1038/s41598-021-91514-7" target="10.1038/s41598-020-67459-8" id="5" />
+      <edge source="10.1016/j.compbiomed.2021.104421" target="10.1101/2020.05.24.20111989" id="6" />
+      <edge source="10.1016/j.chaos.2020.110240" target="10.1016/j.chaos.2020.109829" id="7" />
+      <edge source="10.1101/2021.05.23.21257689" target="10.1073/pnas.2006520117" id="8" />
+      <edge source="10.1101/2021.05.23.21257689" target="10.1371/journal.pone.0236386" id="9" />
+      <edge source="10.1101/2021.05.23.21257689" target="10.1016/j.idm.2020.08.007" id="10" />
+      <edge source="10.1101/2021.05.23.21257689" target="10.1016/j.chaos.2020.110121" id="11" />
+      <edge source="10.1038/s41598-021-93545-6" target="10.1007/s11071-020-05946-3" id="12" />
+      <edge source="10.1038/s41598-021-93545-6" target="10.1101/2020.09.28.20203109" id="13" />
+      <edge source="10.1016/j.cma.2021.113891" target="10.1007/s00466-020-01894-2" id="14" />
+      <edge source="10.1016/j.cma.2021.113891" target="10.1007/s00466-020-01911-4" id="15" />
+      <edge source="10.1038/s41598-021-90227-1" target="10.1101/2020.03.21.20040303" id="16" />
+      <edge source="10.1038/s41598-021-90227-1" target="10.1101/2020.03.27.20043752" id="17" />
+      <edge source="10.1371/journal.pone.0239175" target="10.1016/j.chaos.2020.109924" id="18" />
+      <edge source="10.1016/j.jbi.2021.103791" target="10.1016/j.chaos.2020.110121" id="19" />
+      <edge source="10.1371/journal.pcbi.1009149" target="10.1038/s41591-020-1132-9" id="20" />
+      <edge source="10.1016/j.chaos.2020.110512" target="10.1016/j.chaos.2020.110196" id="21" />
+      <edge source="10.1016/j.chaos.2020.110512" target="10.1016/j.chaos.2020.110227" id="22" />
+      <edge source="10.1016/j.chaos.2020.110512" target="10.1016/j.chaos.2020.109948" id="23" />
+      <edge source="10.1016/j.chaos.2020.110512" target="10.1016/j.chaos.2020.110248" id="24" />
+      <edge source="10.1038/s41598-021-85496-9" target="10.1101/2020.03.27.20043752" id="25" />
+      <edge source="10.1016/j.chaos.2020.110121" target="10.1016/j.chaos.2020.109924" id="26" />
+      <edge source="10.1101/2020.09.28.20203109" target="10.1101/2020.05.24.20111989" id="27" />
+      <edge source="10.1101/2020.05.15.20103655" target="10.1101/2020.03.21.20040303" id="28" />
+      <edge source="arxiv:2105.05471" target="10.1101/2020.03.27.20043752" id="29" />
+      <edge source="10.1101/2020.05.24.20111989" target="10.1073/pnas.2006520117" id="30" />
+      <edge source="10.1101/2020.05.24.20111989" target="10.1101/2020.03.27.20043752" id="31" />
+      <edge source="10.1002/jmv.26897" target="10.1016/j.arcontrol.2021.01.006" id="32" />
+      <edge source="10.1093/gigascience/giab009" target="10.1101/2020.03.21.20040303" id="33" />
+      <edge source="10.1093/gigascience/giab009" target="10.1101/2020.03.27.20043752" id="34" />
+      <edge source="10.1016/j.healthplace.2021.102538" target="10.1016/j.healthplace.2020.102404" id="35" />
+      <edge source="arxiv:2007.05180" target="10.1101/2020.03.21.20040303" id="36" />
+      <edge source="arxiv:2007.05180" target="10.1101/2020.05.24.20111989" id="37" />
+      <edge source="10.1016/j.chaos.2020.110027" target="10.1016/j.chaos.2020.109829" id="38" />
+      <edge source="10.1016/j.chaos.2020.110547" target="10.1016/j.chaos.2020.109924" id="39" />
+      <edge source="10.1016/j.chaos.2020.110547" target="10.1016/j.chaos.2020.110121" id="40" />
+      <edge source="10.1016/j.ejor.2020.08.001" target="10.1101/2020.03.27.20043752" id="41" />
+      <edge source="10.1016/j.chaos.2020.110336" target="10.1016/j.chaos.2020.109924" id="42" />
+      <edge source="10.1016/j.chaos.2020.109948" target="10.1016/j.chaos.2020.109829" id="43" />
+      <edge source="10.1016/j.isatra.2021.02.016" target="10.1016/j.chaos.2020.110057" id="44" />
+      <edge source="10.1016/j.isatra.2021.02.016" target="10.1016/j.chaos.2020.110023" id="45" />
+      <edge source="10.1016/j.isatra.2021.02.016" target="10.1016/j.chaos.2020.109829" id="46" />
+      <edge source="10.1016/j.eswa.2021.114920" target="10.1016/j.chaos.2020.110027" id="47" />
+      <edge source="10.1016/j.eswa.2021.114920" target="10.1016/j.chaos.2020.109829" id="48" />
+      <edge source="10.1016/j.epidem.2021.100487" target="10.1101/2020.03.27.20043752" id="49" />
+      <edge source="10.1007/s11135-021-01207-6" target="10.1016/j.chaos.2020.110023" id="50" />
+      <edge source="10.1007/s11135-021-01207-6" target="10.1016/j.chaos.2020.110240" id="51" />
+      <edge source="arxiv:2008.00646" target="10.1101/2020.05.15.20103655" id="52" />
+      <edge source="arxiv:2008.00646" target="10.1101/2020.03.27.20043752" id="53" />
+      <edge source="10.1016/j.chaos.2021.110922" target="10.1007/s00264-020-04653-3" id="54" />
+      <edge source="10.1016/j.chaos.2021.110922" target="10.1007/s00466-020-01911-4" id="55" />
+      <edge source="10.1103/PhysRevX.10.041033" target="10.1101/2020.03.27.20043752" id="56" />
+      <edge source="10.1038/s41591-020-1132-9" target="10.1038/s41562-020-0908-8" id="57" />
+      <edge source="10.1016/j.idm.2020.11.007" target="10.1073/pnas.2006520117" id="58" />
+      <edge source="10.1016/j.idm.2020.11.007" target="10.1016/j.chaos.2020.110057" id="59" />
+      <edge source="10.1016/j.chaos.2020.110023" target="10.1016/j.chaos.2020.109829" id="60" />
+      <edge source="10.1007/s00500-020-05549-5" target="10.1016/j.chaos.2020.110227" id="61" />
+      <edge source="10.1371/journal.pcbi.1008837" target="10.1016/j.chaos.2020.109829" id="62" />
+      <edge source="10.1038/s41598-020-76490-8" target="10.1101/2020.03.27.20043752" id="63" />
+      <edge source="10.1016/j.jtbi.2020.110461" target="10.1101/2020.03.27.20043752" id="64" />
+      <edge source="10.1101/2020.12.22.20248736" target="10.1073/pnas.2006520117" id="65" />
+      <edge source="10.1101/2020.12.22.20248736" target="10.1101/2020.05.15.20103655" id="66" />
+      <edge source="10.1101/2020.12.22.20248736" target="10.1038/s41591-020-1132-9" id="67" />
+      <edge source="10.1016/j.idm.2020.08.007" target="10.1101/2020.05.15.20103655" id="68" />
+      <edge source="arxiv:2008.04215" target="10.1101/2020.03.21.20040303" id="69" />
+      <edge source="10.1371/journal.pone.0250015" target="10.1073/pnas.2006520117" id="70" />
+      <edge source="10.1371/journal.pone.0250015" target="10.1371/journal.pone.0236386" id="71" />
+      <edge source="10.1007/s11071-021-06424-0" target="10.1016/j.chaos.2020.110057" id="72" />
+      <edge source="10.1073/pnas.2006520117" target="10.1101/2020.03.27.20043752" id="73" />
+      <edge source="10.1038/s41562-020-0908-8" target="10.1101/2020.05.15.20103655" id="74" />
+      <edge source="10.1186/s40537-021-00491-1" target="10.1101/2020.09.28.20203109" id="75" />
+      <edge source="10.1016/j.rinp.2021.104364" target="10.1007/s11071-020-05848-4" id="76" />
+    </edges>
+  </graph>
+</gexf>
